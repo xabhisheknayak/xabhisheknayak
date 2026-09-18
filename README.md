@@ -13,16 +13,6 @@ Building things, breaking things, and learning how to build them better. 🚀<br
 ![](https://streak-stats.demolab.com/?user=xabhisheknayak&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=xabhisheknayak&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xabhisheknayak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xabhisheknayak&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=xabhisheknayak&icon=4&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
