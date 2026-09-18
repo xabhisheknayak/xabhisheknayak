@@ -1,6 +1,8 @@
+<img width="500" height="281" alt="92e60f0b442860324b155fe025b2d1eb-ezgif com-speed" src="https://github.com/user-attachments/assets/39a06f26-e86b-4918-89bb-cf7ebd5c50df" />
+
 # 💫 About Me:
 Abhishek here !!! <br>
-Building things, breaking things, and learning how to build them better. 🚀<br> **Learning is not a phase. Learning is the hobby.** ⚡<br>
+**JUST LOCK IN GUYS** <br> **"Learning is the hobby"** ⚡<br>
 
 
 ## 🌐 Socials:
