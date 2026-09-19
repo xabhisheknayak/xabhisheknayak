@@ -1,8 +1,9 @@
-<img width="500" height="281" alt="92e60f0b442860324b155fe025b2d1eb-ezgif com-speed" src="https://github.com/user-attachments/assets/39a06f26-e86b-4918-89bb-cf7ebd5c50df" />
-
 # 💫 About Me:
-Abhishek here !!! <br>
-**JUST LOCK IN GUYS** <br> **"Learning is the hobby"** ⚡<br>
+  **Yo! Abhishek here!!!**<br>
+  **JUST LOCK IN GUYS** <br> **Learning is the hobby**⚡<br>
+
+###
+<img width="400" height="225" alt="92e60f0b442860324b155fe025b2d1eb (1)" src="https://github.com/user-attachments/assets/d68d2b18-8d1f-4309-a4a8-51cf8d37785a" /><br>
 
 
 ## 🌐 Socials:
